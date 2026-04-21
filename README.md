@@ -1,2 +1,2 @@
 # Calculadora 3D
-Inspirado no vídeo : https://www.youtube.com/watch?v=42TShjXR0m0 do canal "Gustavo Neitzke".
+Aplicação de calculadora 3D desenvolvida com foco em interatividade e design moderno, permitindo a realização de operações matemáticas em uma interface visual diferenciada.
